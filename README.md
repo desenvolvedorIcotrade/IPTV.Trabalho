@@ -1,0 +1,2 @@
+# Parceiros
+app de publicidade
