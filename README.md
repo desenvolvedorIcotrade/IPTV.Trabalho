@@ -16,8 +16,5 @@ Web de Designer!
 <head>
 	<meta charset="UTF-8" />
 			
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<link rel="pingback" href="https://accounts.inlocomedia.com/pt-BR/publishers/sign_up/90e10f98d755e9e5b260b2c7ad5225fb03ade68621e43205ff357a04b66024e4
-" />
-
+	
 
