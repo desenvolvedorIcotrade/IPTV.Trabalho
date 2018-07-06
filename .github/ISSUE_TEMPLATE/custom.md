@@ -1,7 +1,5 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-
----
-
-
+var fun = function lang(#) {
+  dateformat.i18n = require('bt./lang/' + l)
+  return true;
+}
