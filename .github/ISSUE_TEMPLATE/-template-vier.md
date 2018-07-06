@@ -1,8 +1,5 @@
 ---
-name: " template vier"
-about: " template's  here."
 
----
 
 <html>
 query {
@@ -12,7 +9,10 @@ query {
         node {
           name
 
-          avatarUrl
+          avatarUrlvar fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
         }
       }
     }
