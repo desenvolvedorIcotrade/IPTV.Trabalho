@@ -1,4 +1,4 @@
-# Parceiros
+https://Parceiros.com.br
 Um Crypto Miner 
 para o seu site / Bank company
 Varias Soluçoes:
