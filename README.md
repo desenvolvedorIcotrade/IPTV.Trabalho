@@ -1,7 +1,7 @@
 
 
 
-<!DOCTYPE html>
+
 <html>
 
 <head>
@@ -67,13 +67,13 @@
         </div>
 
         <div class="main">
-            <h2>Lorum Ipsum</h2>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+            <h2>#</h2>
+            <p>#</p>
         </div>
 
         <div class="right">
             <h2>About</h2>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p>
+            <p>#</p>
         </div>
     </div>
 
