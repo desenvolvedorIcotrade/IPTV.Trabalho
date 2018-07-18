@@ -1,4 +1,4 @@
-# https://desenvolvedoricotrade.github.io
+# https://desenvolvedoricotrade.github.io/Parceiros/
 
 Um Crypto Miner 
 para o seu site / Bank company
