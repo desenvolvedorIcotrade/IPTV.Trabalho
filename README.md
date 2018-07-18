@@ -77,7 +77,7 @@
         </div>
     </div>
 
-    <div style="background-color:#e5e5e5;text-align:center;padding:10px;margin-top:7px;">© copyright w3schools.com</div>
+    <div style="background-color:#e5e5e5;text-align:center;padding:10px;margin-top:7px;">© copyright Cleverton Desenvolvedor</div>
 
 </body>
 Um Crypto Miner 
