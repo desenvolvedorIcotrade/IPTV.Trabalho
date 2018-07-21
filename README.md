@@ -12,7 +12,7 @@ Clever Soluçoes
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	**Gerador de Gifs
+	
 	<meta name="description" content="Crie seu gif online, sem precisar instalar nenhum programa">
 	
   
@@ -23,7 +23,7 @@ Clever Soluçoes
 	<div id="wrap">
 		<header>
 			<h1> Gerador de gifs</h1>
-			<p> Não precisa instalar nada, é só enviar as suas imagens e fazer download do gif </p>
+			<p>  é só enviar as suas imagens e fazer download do gif </p>
 		</header>
 		
 		
@@ -72,7 +72,7 @@ Clever Soluçoes
 						google_ad_height = 250;
 						//-->
 					</script>
-					<script type="text/javascript" src="https://accounts.inlocomedia.com/pt-BR/publishers/sign_up/90e10f98d755e9e5b260b2c7ad5225fb03ade68621e43205ff357a04b66024e4"></script>
+					
 				</div>
 			</div>
 			
