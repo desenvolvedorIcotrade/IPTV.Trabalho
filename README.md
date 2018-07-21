@@ -1,8 +1,8 @@
   
- 
+EM BREVE 
 Um Crypto Miner 
 para o seu site / Bank company
-Varias Soluçoes:
+Varias Solução:
 
 Monetize sua empresa com o poder da CPU de seus usuários
 Monetize seu software
