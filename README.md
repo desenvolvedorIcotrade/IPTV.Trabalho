@@ -72,7 +72,7 @@ Clever Soluçoes
 						google_ad_height = 250;
 						//-->
 					</script>
-					<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+					<script type="text/javascript" src="https://accounts.inlocomedia.com/pt-BR/publishers/sign_up/90e10f98d755e9e5b260b2c7ad5225fb03ade68621e43205ff357a04b66024e4"></script>
 				</div>
 			</div>
 			
@@ -164,7 +164,8 @@ Clever Soluçoes
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
-  https://accounts.inlocomedia.com/pt-BR/publishers/sign_up/90e10f98d755e9e5b260b2c7ad5225fb03ade68621e43205ff357a04b66024e4
+	
+ 
   
 </body>
 </html>
