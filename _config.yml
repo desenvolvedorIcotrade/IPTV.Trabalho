@@ -2,3 +2,5 @@
 
 /* Valores RGB */
 background-color: rgb(255, 255, 128);
+
+theme: jekyll-theme-leap-day
