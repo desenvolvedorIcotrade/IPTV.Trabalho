@@ -1,5 +1,5 @@
   
-**EM BREVE 
+EM BREVE 
 Um Crypto Miner 
 para o seu site / Bank company/
 Solução Empresarial:
@@ -15,7 +15,7 @@ Clever Soluçoes
 	
 	
 	
-	<meta name="description" content="Crie seu gif online, sem precisar instalar nenhum programa">
+	content="Crie seu gif online
 	
   
   
