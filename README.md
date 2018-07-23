@@ -1,9 +1,8 @@
   
-EM BREVE 
+**EM BREVE 
 Um Crypto Miner 
-para o seu site / Bank company
-Varias Solução:
-
+para o seu site / Bank company/
+Solução Empresarial:
 Monetize sua empresa com o poder da CPU de seus usuários
 Monetize seu software
 Monetize seu url / Publishers
@@ -12,6 +11,9 @@ Clever Soluçoes
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
+	
+	
+	
 	
 	<meta name="description" content="Crie seu gif online, sem precisar instalar nenhum programa">
 	
