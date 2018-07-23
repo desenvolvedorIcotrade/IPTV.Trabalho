@@ -4,10 +4,9 @@ Um Crypto Miner
 para o seu site / Bank company/
 Solução Empresarial:
 Monetize sua empresa com o poder da CPU de seus usuários
-Monetize seu software
 Monetize seu url / Publishers
 Web 
-Clever Soluçoes
+Clever
 
 
 <html lang="en-US">
