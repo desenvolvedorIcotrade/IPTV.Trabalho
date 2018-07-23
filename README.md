@@ -8,12 +8,11 @@ Monetize seu url / Publishers
 Web 
 Clever
 
-
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-	Gerador de Gifs
-	sem precisar instalar nenhum programa
+	<title>Gerador de Gifs</title>
+	<meta name="description" content="Crie seu gif online, sem precisar instalar nenhum programa">
 	
 	<link href='http://fonts.googleapis.com/css?family=Cuprum' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/index.css" media="all" />
@@ -22,7 +21,7 @@ Clever
 	<div id="wrap">
 		<header>
 			<h1> Gerador de gifs</h1>
-			*é só enviar as suas imagens e fazer download do gif 
+			<p> Não precisa instalar nada, é só enviar as suas imagens e fazer download do gif </p>
 		</header>
 		
 		
