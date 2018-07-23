@@ -1,4 +1,27 @@
-  
+ const http = require('http')
+
+const server = http.createServer((req, res) => {
+    if (req.url == '/') {
+        res.end('<h1>ola sou o cleverton em que possso te ajudar</h1>')
+
+    }
+
+    if (req.url == ' /nome ') {
+
+
+    }
+
+    res.end('fornec lorimospm  ')
+
+
+    if (req.url == ' /EMail ') {
+
+        res.end('fornec@loripsom ')
+
+    }
+
+
+}) 
 EM BREVE 
 Um Crypto Miner 
 para o seu site / Bank company/
