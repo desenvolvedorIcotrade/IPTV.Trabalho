@@ -8,24 +8,22 @@ Monetize seu software
 Monetize seu url / Publishers
 Web 
 Clever Soluçoes
+
+
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
+	Gerador de Gifs
+	sem precisar instalar nenhum programa
 	
-	
-	
-	
-	content="Crie seu gif online
-	
-  
-  
-	
+	<link href='http://fonts.googleapis.com/css?family=Cuprum' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" type="text/css" href="css/index.css" media="all" />
 </head>
 <body>
 	<div id="wrap">
 		<header>
 			<h1> Gerador de gifs</h1>
-			<p>  é só enviar as suas imagens e fazer download do gif </p>
+			*é só enviar as suas imagens e fazer download do gif 
 		</header>
 		
 		
@@ -74,12 +72,12 @@ Clever Soluçoes
 						google_ad_height = 250;
 						//-->
 					</script>
-					
+					<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 				</div>
 			</div>
 			
 			<div class="conteudo">
-				<form action="gifs/1532208408.gif" method="post" enctype="multipart/form-data" target="download">
+				<form action="gifs/1532379444.gif" method="post" enctype="multipart/form-data" target="download">
 					<h3> Gere o seu gif agora </h3>
 					<fieldset>
 						<ul class="campos">
@@ -166,11 +164,6 @@ Clever Soluçoes
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
-	
- 
-  
 </body>
 </html>
-
-
 
