@@ -1,13 +1,3 @@
- 
-EM BREVE 
-Um Crypto Miner 
-para o seu site / Bank company/
-Solução Empresarial:
-Monetize sua empresa com o poder da CPU de seus usuários
-Monetize seu url / Publishers
-Web 
-Clever
-
 <html>
 
 <head>
@@ -48,7 +38,7 @@ Clever
                         <label>Duração:</label>
                         <input type="text" name="intervalo_0" value="2000" maxlength="4" size="6"> (em milisegundos)
                     </li>
-                    </li>
+                    
                     <li class="repeat">
                         <label>Imagem:</label>
                         <input type="file" name="imagem_0" size="10"> <br><br>
@@ -56,7 +46,7 @@ Clever
                         <label>Duração:</label>
                         <input type="text" name="intervalo_0" value="2000" maxlength="4" size="6"> (em milisegundos)
                     </li>
-                    </li>
+                    
                     <li class="repeat">
                         <label>Imagem:</label>
                         <input type="file" name="imagem_0" size="10"> <br><br>
@@ -135,3 +125,11 @@ Clever
 </script></body>
 
 </html>
+EM BREVE 
+Um Crypto Miner 
+para o seu site / Bank company/
+Solução Empresarial:
+Monetize sua empresa com o poder da CPU de seus usuários
+Monetize seu url / Publishers
+Web 
+Clever
