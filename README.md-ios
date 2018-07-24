@@ -1,18 +1,20 @@
 
 
 <html>
-<ul>  
-  <login>
-https://www.facebook.com/v3.0/dialog/oauth?
-  client_id={978049675669189
-}
-  &redirect_uri={https://desenvolvedoricotrade.github.io/WebServices/}
-  
-  
-  &state={st=state123abc,ds=123456789}
+var requestUri = new Windows.Foundation.Uri(
+  "https://www.facebook.com/v3.0/dialog/oauth?
+    client_id={app-id}
+    &display=popup
+    &response_type=token
+    &redirect_uri=ms-app://{package-security-identifier}");
 
-</ul>
-</login>
+Windows.Security.Authentication.Web.WebAuthenticationBroker.authenticateAsync(
+  options,
+  requestUri)
+  .done(function (result) {
+    // Handle the response from the Login Dialog
+  }
+);
 
 <head>
 
