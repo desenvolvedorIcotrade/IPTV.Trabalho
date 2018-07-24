@@ -1,16 +1,18 @@
 
 
 <html>
+<ul>  
+  <login>
 https://www.facebook.com/v3.0/dialog/oauth?
-  client_id={978049675669189_1166227203518101
+  client_id={978049675669189
 }
   &redirect_uri={https://desenvolvedoricotrade.github.io/WebServices/}
   
   
   &state={st=state123abc,ds=123456789}
 
-
-
+</ul>
+</login>
 
 <head>
 
