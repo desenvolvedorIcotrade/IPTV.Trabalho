@@ -1,6 +1,13 @@
 
 
 <html>
+https://www.facebook.com/v3.0/dialog/oauth?
+  client_id={app-id}
+  &redirect_uri={redirect-uri}
+  &state={state-param}
+
+
+
 
 <head>
 
