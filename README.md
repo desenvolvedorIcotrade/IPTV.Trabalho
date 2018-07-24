@@ -10,49 +10,14 @@ Clever
 
 <html lang="en-US">
 <head>
+	
+	
 	<meta charset="UTF-8">
 	<title>Gerador de Gifs</title>
 	<meta name="description" content="Crie seu gif online, sem precisar instalar nenhum programa">
 	
 	<link href='http://fonts.googleapis.com/css?family=Cuprum' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/index.css" media="all" />
-	Welcome!
-[Trabalhe construindo novos apps](https://accounts.inlocomedia.com/pt-BR/publishers/sign_up/90e10f98d755e9e5b260b2c7ad5225fb03ade68621e43205ff357a04b66024e4)
-
-projeto
-Editar projeto Para Desenvolvedores
-Nome do projeto Para Desenvolvedores
-jan de 2018 – o momento
-
-Descrição do projetoApaixonados por programaçao!
-Cases de sucesso
-Quer entender mais sobre anúncios mobile?
-Por que rentabilizar com a In Loco Media?
-
-Como a publicidade geolocalizada funciona, quais são os números e como podemos gerar resultados para você
-A maior rede mobile do Brasil
-Mais de 50 milhões de usuários ativos e 11 bilhões de impressões mensais
-
-Ícone elos de corrente
-Tecnologia exclusiva
-Precisão de 2m, que garante seu anúncio no lugar certo
-
-Ícone Rich Media
-Presença em todo o Brasil
-Em mais de 5 milhões de estabelecimentos
-
-Ícone engajamento
-Melhor engajamento
-Maiores taxas de conversão, graças ao contexto adicionado pela localização
-
-A In Loco conta com grandes clientes no Brasil como Carrefour, Easy Taxi, Cacau Show, além de operações no México e vendas para a Argentina, Portugal e Colômbia. A empresa pretende abrir um escritório nos Estados Unidos, onde licenciou a tecnologia para 200 parceiros. A In Loco fez duas aquisições de empresas iniciantes no próprio Porto Digital principalmente para agregar capital humano especializado."Faça seu Cadastro!
-
-Como a nossa tecnologia pode ajudar a sua 
-
-campanha!Pronto para começar?
-
-Visualizar projeto Para Desenvolvedores Visualizar projeto
-	
 </head>
 <body>
 	<div id="wrap">
