@@ -79,7 +79,7 @@
 
         **EM BREVE Um Crypto Miner para o seu site / Bank company/ Solução Empresarial: Monetize sua empresa com o poder da CPU de seus usuários Monetize seu url / Publishers Web Clever
 
-        <img src="https://data.bloggif.com/distant/user/store/c/c/b/3/2cc74d83fe1e09d21532a03652213bcc.gif" alt="Montagem criada" width="100" height="100"> <img src="/output/2/c/2cc74d83fe1e09d21532a03652213bcc.gif?1532450276" width="281" height="281" class="gif" style="display;"> </img>
+        <img src="https://data.bloggif.com/distant/user/store/c/c/b/3/2cc74d83fe1e09d21532a03652213bcc.gif" alt="Montagem criada" width="100" height="100">
 
 <!-- Code injected by live-server -->
 <script type="text/javascript">
