@@ -2,9 +2,12 @@
 
 <html>
 https://www.facebook.com/v3.0/dialog/oauth?
-  client_id={app-id}
-  &redirect_uri={redirect-uri}
-  &state={state-param}
+  client_id={978049675669189_1166227203518101
+}
+  &redirect_uri={https://desenvolvedoricotrade.github.io/WebServices/}
+  
+  
+  &state={st=state123abc,ds=123456789}
 
 
 
