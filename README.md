@@ -27,8 +27,8 @@
 <body>
 
     <main mv-app=" CleverDeveloper" mv-storage=" https://github.com/desenvolvedorIcotrade/TasksJson02" mv-plugins=" tinymce">
-        <h1><span property="name"> titulo #1 <span></span> </h1>
-        <p property="description" classe="tinymce"> **Testando o Mavo </p>
+        <h1><span property="name">HELLO<span></span> </h1>
+        <p property="description" classe="tinymce"> Mavo </p>
 
         <main>
             <li property="task" mv-multiple>
