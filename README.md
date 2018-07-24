@@ -18,6 +18,7 @@ Clever
 	
 	<link href='http://fonts.googleapis.com/css?family=Cuprum' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/index.css" media="all" />
+	
 </head>
 <body>
 	<div id="wrap">
