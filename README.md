@@ -8,20 +8,7 @@
     <title>Page Title</title>
     <link rel="stylesheet" href="https://get.mavo.io/mavo.css" />
     <script src="https://get.mavo.io/mavo.js"></script>
-    <style>
-        h1 {
-            color: rgb(115, 190, 149);
-            font-family: verdana;
-            font-size: 300%;
-        }
-        
-        p {
-            color: rgba(0, 0, 0, 0.733);
-            font-family: courier;
-            font-size: 160%;
-        }
-    </style>
-
+    
 </head>
 
 <body>
