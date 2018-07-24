@@ -18,7 +18,18 @@ Clever
 	
 	<link href='http://fonts.googleapis.com/css?family=Cuprum' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/index.css" media="all" />
-	
+	<style>
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 300%;
+}
+p  {
+    color: red;
+    font-family: courier;
+    font-size: 160%;
+}
+</style>
 </head>
 <body>
 	<div id="wrap">
