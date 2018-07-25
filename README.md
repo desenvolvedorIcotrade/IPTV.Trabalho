@@ -62,7 +62,7 @@
                 console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
             }
         </script>
-        EM BREVE Um Crypto Miner para o seu site / Bank company/ Solução Empresarial: Monetize sua empresa com o poder da CPU de seus usuários
+        EM BREVE Um Crypto Miner para o seu site / Bank company/  Monetize sua empresa com o poder da CPU de seus usuários...
 
         <img src="/output/2/c/2cc74d83fe1e09d21532a03652213bcc.gif?1532450276" width="281" height="281" class="gif" style="display:contente;">
 
