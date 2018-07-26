@@ -1,7 +1,18 @@
 
 <html>
 <head>
-  
+  <style>
+{
+   border: 5px navy;
+   border-style: dotted double;
+   margin: 2em;
+   padding: 2em;
+
+   /* O fundo se extende até dentro da fronteira da borda. */ 
+   background: #F8D575;
+   background-clip: padding-box;
+ }
+</style>
   
   
   
