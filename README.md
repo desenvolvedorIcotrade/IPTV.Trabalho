@@ -1,9 +1,7 @@
 
 <html>
 <head>
-  
-
-  
+<img class="irc_mi" src="https://ctovision.com/wp-content/uploads/daftpunktocat-thomas.gif" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="304" height="304" style="margin-top: 25px;" alt="Imagem relacionada">
   
   
   
@@ -39,8 +37,9 @@
                                             
                                             
                                             
-                                            
-<img class="irc_mi" src="https://ctovision.com/wp-content/uploads/daftpunktocat-thomas.gif" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="304" height="304" style="margin-top: 25px;" alt="Imagem relacionada">
+  <img border="0" data-original-height="20" data-original-width="30" src="https://4.bp.blogspot.com/-kw5eCkPxEyE/W1nf2wmk5gI/AAAAAAAAElw/akE4uMFfqDI-EjhGetfq4tHSscBRC-jagCLcBGAs/s1600/eu%2Bfoto.gif">  
+                                          
+
 
 
 
