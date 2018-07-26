@@ -23,7 +23,7 @@
 <body>
   
   
- _#*     
+    
  
  
  <div> 
@@ -43,7 +43,7 @@
 <img class="irc_mi" src="https://ctovision.com/wp-content/uploads/daftpunktocat-thomas.gif" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="304" height="304" style="margin-top: 25px;" alt="Imagem relacionada">
 
 
-</body>
+
 
 
 
