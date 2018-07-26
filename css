@@ -4,16 +4,16 @@
 <html>
 <head>
 <style>
-h1 {
-    color: black;
-    font-family: verdana;
-    font-size: 300%;
-}
-p  {
-    color: red;
-    font-family: courier;
-    font-size: 160%;
-}
+{
+   border: 5px navy;
+   border-style: dotted double;
+   margin: 2em;
+   padding: 2em;
+
+   /* O fundo se extende até dentro da fronteira da borda. */ 
+   background: #F8D575;
+   background-clip: padding-box;
+ }
 </style>
 </head>
 <body>
