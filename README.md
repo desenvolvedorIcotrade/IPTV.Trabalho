@@ -19,19 +19,6 @@ _<html>
 
 
 
-<body>
-  
-    
- 
- 
-
-                                            
-                                            
-  <img border="0" data-original-height="5" data-original-width="10" src="https://4.bp.blogspot.com/-kw5eCkPxEyE/W1nf2wmk5gI/AAAAAAAAElw/akE4uMFfqDI-EjhGetfq4tHSscBRC-jagCLcBGAs/s1600/eu%2Bfoto.gif">  
-                                          
-
-
-
 
 
 
@@ -41,12 +28,7 @@ _<html>
  
  
  
-                                                 Portfólio
-      
-      
-      
-                                            <p> Meu Perfil Social </p>
-                                            
+                                                 
                                             
 <div class="container">
   <h2>Carousel Example</h2>  
