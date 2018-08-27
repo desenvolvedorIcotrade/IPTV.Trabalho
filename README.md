@@ -1,4 +1,4 @@
-;*
+;*¨s
 
 <img class="irc_mi" src="http://rockeirasempre.zip.net/images/rockeirodescontrolado.gif" alt="Resultado de imagem para gif rockeiro" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="200" height="155" style="margin-top: 99px;">
 
