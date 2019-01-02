@@ -1,5 +1,9 @@
 
-[  ]
+
+<div style="color: #fff;padding-left: 11px; display: block; position: absolute; top: 0; overflow: hidden; right: 0; background: #201d1d; -webkit-border-top-left-radius: 50px; -webkit-border-bottom-left-radius: 50px; -moz-border-radius-topleft: 50px; -moz-border-radius-bottomleft: 50px; border-top-left-radius: 50px; border-bottom-left-radius: 50px; padding-right: 16px; padding-top: 5px; padding-bottom: 5px; opacity: 0.9; filter: alpha(opacity=90); -moz-opacity: 0.9;">
+Black Mirror: Bandersnatch (2018) |WEBDL – Dublado
+<span onclick="this.parentNode.style.display = 'none';" style="cursor: default; position: absolute; right: 0; margin-top: 6px; margin-right: 5px; color: gold; font-size: 11px; top: 0;">×</span>
+</div>
 
 
 
